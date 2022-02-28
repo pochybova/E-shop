@@ -1,0 +1,55 @@
+.page-block {
+  margin-top: 2em;
+}
+
+.title {
+  font-size: 1.875em;
+  color: rgb(137, 135, 135);
+}
+
+.card-component {
+  margin-top: 2em;
+  max-width: 350px;
+}
+
+.blok {
+  background-color: rgb(79, 70, 70);
+}
+
+.btnFilled,
+.btnEmpty:hover,
+.btnFilled:focus,
+.btnFilled:active {
+  background-color: pink !important ;
+  border-color: pink !important;
+  color: white !important;
+  border-radius: 25px;
+  border-width: 1px;
+  box-shadow: none;
+  margin: 20px 20px 20px;
+  white-space: nowrap;
+}
+
+.btnEmpty,
+.btnFilled:hover,
+.btnEmpty:focus,
+.btnEmpty:active {
+  background-color: white !important;
+  border-color: pink !important;
+  color: palevioletred !important;
+  border-radius: 28px;
+  border-width: 1px;
+  box-shadow: none;
+  margin: 20px 20px 20px;
+}
+
+.navStyle,
+.navStyle:active,
+.navStyle:visited,
+a:active,
+a:visited,
+a:link,
+a:hover,
+a:focus {
+  color: black;
+}
