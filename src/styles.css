@@ -1,0 +1,53 @@
+.page-block {
+  margin-top: 2em;
+}
+
+.title {
+  font-size: 1.875em;
+  color: rgb(137, 135, 135);
+}
+
+.card-component {
+  margin-top: 2em;
+  max-width: 350px;
+}
+
+.blok {
+  background-color: rgb(79, 70, 70);
+}
+
+.btnFilled,
+.btnFilled:focus,
+.btnFilled:active {
+  background-color: pink !important ;
+  border-color: pink !important;
+  color: white !important;
+  border-radius: 25px !important;
+  border-width: 1px !important;
+  box-shadow: none !important;
+  margin: 20px 20px 20px !important;
+  white-space: nowrap !important;
+}
+
+.btnEmpty,
+.btnEmpty:focus,
+.btnEmpty:active {
+  background-color: white !important;
+  border-color: pink !important;
+  color: palevioletred !important;
+  border-radius: 28px !important;
+  border-width: 1px !important;
+  box-shadow: none !important;
+  margin: 20px 20px 20px !important;
+}
+
+.navStyle,
+.navStyle:active,
+.navStyle:visited,
+a:active,
+a:visited,
+a:link,
+a:hover,
+a:focus {
+  color: black;
+}
